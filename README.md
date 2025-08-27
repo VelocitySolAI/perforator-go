@@ -6,8 +6,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Performance](https://img.shields.io/badge/Performance-Blazing%20Fast-red?style=for-the-badge)](README.md)
 
-> **Attribution**: This is a Go reimplementation of the original [Perforator](https://github.com/copyleftdev/perforator) project by **copyleftdev**. 
-> This version features advanced algorithms, enhanced concurrency, and significant performance improvements.
 
 Perforator-Go is a blazing-fast, concurrent penetration testing framework built in Go, designed for enterprise-scale security assessments with unmatched performance and scalability. This implementation includes advanced XML bomb detection, sophisticated buffer management, and intelligent mock server integration for comprehensive edge case testing.
 
